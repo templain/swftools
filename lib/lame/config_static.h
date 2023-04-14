@@ -25,11 +25,11 @@
 /* #undef  int8_t */
 #define uint8_t unsigned char
 /* #undef  int18_t */
-#define uint16_t unsigned short
+/* #define uint16_t unsigned short */
 /* #undef  int32_t */
-#define uint32_t unsigned int
+/* #define uint32_t unsigned int */
 /* #undef  int64_t */
-#define uint64_t unsigned long long
+/* #define uint64_t unsigned long long */
 #define ieee854_float80_t long double
 #define ieee754_float64_t double
 #define ieee754_float32_t float
